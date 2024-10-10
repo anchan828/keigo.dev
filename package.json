@@ -1,0 +1,17 @@
+{
+  "name": "keigo.dev",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress-plugin-lightbox": "1.0.2",
+    "prettier": "3.3.3",
+    "vitepress": "1.4.0"
+  },
+  "volta": {
+    "node": "22.9.0"
+  }
+}
