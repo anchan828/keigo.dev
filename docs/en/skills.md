@@ -1,6 +1,6 @@
 # Skills
 
-I have limited experience in B2C development, with most of my work focused on B2B or in-house projects. I specialize in development within small teams. While I have experience with Kubernetes, I prefer working in serverless environments that minimize the need for infrastructure management and maintenance.
+I excel at development within small teams, particularly for B2B and internal projects. While I have experience with Kubernetes, I prefer working in serverless environments that minimize the need for infrastructure management and maintenance.
 
 ## Programming Languages
 
