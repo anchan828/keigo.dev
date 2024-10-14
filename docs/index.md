@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: About
-      link: "/#about"
+      link: "#about"
     - theme: alt
       text: Skills
       link: "./skills"
