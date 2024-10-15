@@ -41,6 +41,16 @@ export default defineConfig({
       },
     ],
   },
+  head: [
+    [
+      "script",
+      {
+        defer: "",
+        src: "https://static.cloudflareinsights.com/beacon.min.js",
+        "data-cf-beacon": '{"token": "fd09692013ad4159899220d451f26260"}',
+      },
+    ],
+  ],
   markdown: {
     config: (md) => {
       md.use(lightbox, {});
