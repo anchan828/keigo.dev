@@ -9,7 +9,7 @@
   "devDependencies": {
     "vitepress-plugin-lightbox": "1.0.2",
     "prettier": "3.3.3",
-    "vitepress": "1.4.3"
+    "vitepress": "1.4.5"
   },
   "volta": {
     "node": "22.11.0"
