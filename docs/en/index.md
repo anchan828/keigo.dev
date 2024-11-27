@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Hi, I'm Keigo Ando"
-  tagline: A Full Stack Web Developer
+  tagline: Full Stack + Unity Editor Extension Engineer
   image:
     src: /images/keigo.jpg
     alt: Keigo Ando
@@ -21,11 +21,17 @@ hero:
 
 features:
   - title: Web Application Development
-    details: I develop web applications using modern technologies.
+    details: Develop web applications using modern technologies.
   - title: Tools Development
     details: Developing scripts, CLI tools, and extensions necessary for efficiently executing tasks and enhancing workflow.
   - title: Write Technical Articles
-    details: I write technical articles on my blog/book to share my knowledge and experience with others.
+    details: Write technical articles on my blog/book to share my knowledge and experience with others.
+  - title: Unity Editor Extension
+    details: Improve pipelines/workflows in game development with Unity editor extensions.
+  - title: Translation/Localization System
+    details: Develop multilingual systems such as translation system development, localization support, and localization workflow construction.
+  - title: DevOps
+    details: Develop with a focus on DevOps, such as infrastructure automation, CI/CD construction, containerization, and serverless environment construction.
 ---
 
 ## About
@@ -40,11 +46,23 @@ While I have experience with Kubernetes, I prefer working in serverless environm
 
 In my personal activities, I develop libraries for the NestJS framework and create Unity editor extensions. I also have experience in writing technical books.
 
+### An article that kindly introduces me (in Japanese)
+
+- [UTJスゴイ人列伝 〜安藤圭吾〜](https://warapuri.com/post/168667471208/utj%E3%82%B9%E3%82%B4%E3%82%A4%E4%BA%BA%E5%88%97%E4%BC%9D-%E5%AE%89%E8%97%A4%E5%9C%AD%E5%90%BE)
+- [エディター拡張大好きなWebエンジニア【そこらへんのゲーム関係者 vol.13】](https://note.com/nidan_jump/n/nbd5427111713)
+
 ## Experience
 
-| Year      | Company                  | Position                 | Description                                                                                                                                                                                                                          |
-| --------- | ------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2021 -    | Unity Technologies Japan | Senior Software Engineer | Promoted to Senior Software Engineer. While developing and operating localization systems, we have also started developing new Unity Cloud services.                                                                                 |
-| 2016-2021 | Unity Technologies Japan | Software Engineer        | Transferred to focus on system development to improve and develop internal localization within the company. Introduced localization systems and developed translation systems in the absence of a localization framework or culture. |
-| 2013-2016 | Unity Technologies Japan | Field Engineer           | I was responsible for providing technical support to customers using Unity, conducting seminars, and developing learning materials.                                                                                                  |
-| 2012-2013 | TOP GATE                 | Software Engineer        | At my first company, I developed our own products using Google App Engine (Java / Slim3).                                                                                                                                            |
+### Unity Technologies Japan (11.5 years)
+
+| Year        | Position                 | Description                                                                                                                                                                                                                          |
+| ----------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2021 - 2024 | Senior Software Engineer | Promoted to Senior Software Engineer. While developing and operating localization systems, we have also started developing new Unity Cloud services.                                                                                 |
+| 2016-2021   | Software Engineer        | Transferred to focus on system development to improve and develop internal localization within the company. Introduced localization systems and developed translation systems in the absence of a localization framework or culture. |
+| 2013-2016   | Field Engineer           | I was responsible for providing technical support to customers using Unity, conducting seminars, and developing learning materials.                                                                                                  |
+
+### TOP GATE (1 year)
+
+| Year      | Position          | Description                                                        |
+| --------- | ----------------- | ------------------------------------------------------------------ |
+| 2012-2013 | Software Engineer | Developed our own products using Google App Engine (Java / Slim3). |
