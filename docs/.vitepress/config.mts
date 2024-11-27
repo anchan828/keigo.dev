@@ -5,7 +5,8 @@ const siteName = "Keigo Ando's portfolio" as const;
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: siteName,
-  description: "Keigo is a full stack web engineer working in Japan 🇯🇵.",
+  description:
+    "Keigo is a full stack + Unity editor extension engineer working in Japan 🇯🇵.",
   locales: {
     root: {
       label: "日本語",
