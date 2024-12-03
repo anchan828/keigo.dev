@@ -46,6 +46,8 @@ While I have experience with Kubernetes, I prefer working in serverless environm
 
 In my personal activities, I develop libraries for the NestJS framework and create Unity editor extensions. I also have experience in writing technical books.
 
+For my tech stack, please refer to [Skills](./skills). For the products I have been involved in, talks, writing/publications, and OSS contributions, please refer to [Works](./works).
+
 ### An article that kindly introduces me (in Japanese)
 
 - [UTJスゴイ人列伝 〜安藤圭吾〜](https://warapuri.com/post/168667471208/utj%E3%82%B9%E3%82%B4%E3%82%A4%E4%BA%BA%E5%88%97%E4%BC%9D-%E5%AE%89%E8%97%A4%E5%9C%AD%E5%90%BE)
