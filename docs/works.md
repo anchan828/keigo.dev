@@ -28,5 +28,5 @@
 
 ## OSS
 
-主にNestJS 向けのライブラリを開発して公開しています。
+主にNestJS向けのライブラリを開発して公開しています。
 [GitHub repositories](https://github.com/anchan828?tab=repositories)
