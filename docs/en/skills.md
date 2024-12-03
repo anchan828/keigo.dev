@@ -61,9 +61,8 @@ As a backend-oriented full-stack engineer, I am capable of handling not only dev
 | ---------------------------------------------------------------- | ------------- | ------ |
 | ![](https://go-skill-icons.vercel.app/api/icons?i=prometheus)    | Prometheus    | 2020 - |
 | ![](https://go-skill-icons.vercel.app/api/icons?i=grafana)       | Grafana       | 2020 - |
-| ![](https://go-skill-icons.vercel.app/api/icons?i=sentry)        | PagerDuty     | 2020 - |
+| ![](https://go-skill-icons.vercel.app/api/icons?i=pagerduty)     | PagerDuty     | 2020 - |
 | ![](https://go-skill-icons.vercel.app/api/icons?i=sentry)        | Sentry        | 2022 - |
-| ![](https://go-skill-icons.vercel.app/api/icons?i=sentry)        | PagerDuty     | 2020 - |
 | ![](https://go-skill-icons.vercel.app/api/icons?i=opentelemetry) | OpenTelemetry | 2022 - |
 
 ## CI/CD
