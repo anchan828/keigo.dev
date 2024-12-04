@@ -57,6 +57,8 @@ For my tech stack, please refer to [Skills](./skills). For the products I have b
 
 ### Unity Technologies Japan (11.5 years)
 
+With the mission to ‘deliver Unity information in Japanese’ and ‘if it doesn't exist, I create it’, I was in charge of Unity technical support, lectures and the development of the translation/localisation system.
+
 | Year        | Position                 | Description                                                                                                                                                                                                                          |
 | ----------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2021 - 2024 | Senior Software Engineer | Promoted to Senior Software Engineer. While developing and operating localization systems, we have also started developing new Unity Cloud services.                                                                                 |
@@ -64,6 +66,8 @@ For my tech stack, please refer to [Skills](./skills). For the products I have b
 | 2013-2016   | Field Engineer           | I was responsible for providing technical support to customers using Unity, conducting seminars, and developing learning materials.                                                                                                  |
 
 ### TOP GATE (1 year)
+
+I applied for a mid-level position by leveraging my development experience with Google App Engine (Java) and its framework Slim3, which I used during my university years. I also conducted training sessions using Unity.
 
 | Year      | Position          | Description                                                        |
 | --------- | ----------------- | ------------------------------------------------------------------ |
