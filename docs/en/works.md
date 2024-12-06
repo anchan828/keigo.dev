@@ -13,9 +13,10 @@
 
 ## Conference Talks
 
-| <div style="width:200px"></div>                                            | Title                         | Year      | Description                                                               |
-| -------------------------------------------------------------------------- | ----------------------------- | --------- | ------------------------------------------------------------------------- |
-| ![](/images/972414c513dcf3eec7ab295c033cedcc.webp){border=1px width=200px} | Unityエディター拡張マニアクス | 2013-2018 | I was speaking at the official Unity event Unite about editor extensions. |
+| <div style="width:200px"></div>                                            | Title                                                        | Year      | Description                                                                                        |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------------- |
+| ![](/images/972414c513dcf3eec7ab295c033cedcc.webp){border=1px width=200px} | Unityエディター拡張マニアクス                                | 2013-2018 | I was speaking at the official Unity event Unite about editor extensions.                          |
+| ![](/images/no_image.jpg){border=1px width=200px}                          | [Meetup](https://www.slideshare.net/keigoando/presentations) | 2011-     | As an individual, as a community, and as part of work, participate in and give lectures at meetup. |
 
 ## Publications
 

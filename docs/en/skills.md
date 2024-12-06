@@ -67,11 +67,11 @@ As a backend-oriented full-stack engineer, I am capable of handling not only dev
 
 ## CI/CD
 
-|                                                          | Name           | Year        |
-| -------------------------------------------------------- | -------------- | ----------- |
-| ![](https://go-skill-icons.vercel.app/api/icons?i=aws)   | Jenkins        | 2011 - 2015 |
-| ![](https://go-skill-icons.vercel.app/api/icons?i=gcp)   | GitLab CI/CD   | 2015 -      |
-| ![](https://go-skill-icons.vercel.app/api/icons?i=azure) | GitHub Actions | 2019 -      |
+|                                                                  | Name           | Year        |
+| ---------------------------------------------------------------- | -------------- | ----------- |
+| ![](https://go-skill-icons.vercel.app/api/icons?i=jenkins)       | Jenkins        | 2011 - 2015 |
+| ![](https://go-skill-icons.vercel.app/api/icons?i=gitlab)        | GitLab CI/CD   | 2015 -      |
+| ![](https://go-skill-icons.vercel.app/api/icons?i=githubactions) | GitHub Actions | 2019 -      |
 
 ## Cloud Platforms
 
