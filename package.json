@@ -7,7 +7,7 @@
     "preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress-plugin-lightbox": "1.0.2",
+    "vitepress-plugin-lightbox": "1.0.3",
     "prettier": "3.6.2",
     "vitepress": "1.6.4"
   },
